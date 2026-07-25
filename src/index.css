@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+  }
+  body {
+    @apply bg-charcoal-950 text-white font-body;
+  }
+  ::selection {
+    @apply bg-ember-500 text-charcoal-950;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .grain {
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.5'/%3E%3C/svg%3E");
+  }
+  .ember-glow {
+    box-shadow:
+      0 0 40px -8px rgba(255, 122, 15, 0.45),
+      0 0 80px -20px rgba(240, 98, 10, 0.35);
+  }
+  .ember-glow-lg {
+    box-shadow:
+      0 0 60px -10px rgba(255, 122, 15, 0.55),
+      0 0 120px -30px rgba(240, 98, 10, 0.4);
+  }
+}
