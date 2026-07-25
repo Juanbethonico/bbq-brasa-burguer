@@ -13,4 +13,7 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  server: {
+    host: true, // Libera conexões de rede local e túneis ( Ngrok / LocalTunnel)
+  },
 });
