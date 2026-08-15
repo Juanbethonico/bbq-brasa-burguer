@@ -60,7 +60,7 @@ export const highlights = [
     text: 'Carne selada em brasa. Sabor defumado que só fogo de verdade entrega.',
   },
   {
-    icon: 'CalendarDays',
+    icon: 'CalendarCheck',
     title: 'Todos os dias',
     text: 'Aberto de segunda a segunda, das 18h às 00h. Sua fome não tem dia de folga.',
   },

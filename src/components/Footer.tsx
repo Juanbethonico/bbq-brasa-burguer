@@ -1,4 +1,5 @@
-import { Flame, Clock, MapPin, Instagram, MessageCircle } from 'lucide-react';
+import { Flame, Clock, MapPin } from 'lucide-react';
+import { FaWhatsapp, FaInstagram } from 'react-icons/fa';
 
 export function Footer() {
   return (
@@ -53,7 +54,7 @@ export function Footer() {
                 rel="noreferrer"
                 className="inline-flex items-center gap-3 rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-sm font-bold text-white/80 transition-colors hover:border-ember-500/40 hover:text-ember-300"
               >
-                <MessageCircle className="h-4 w-4 text-ember-400" strokeWidth={2.5} />
+                <FaWhatsapp className="h-4 w-4 text-ember-400" />
                 WhatsApp — (61) 99981-2451
               </a>
               <a
@@ -62,7 +63,7 @@ export function Footer() {
                 rel="noreferrer"
                 className="inline-flex items-center gap-3 rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-sm font-bold text-white/80 transition-colors hover:border-ember-500/40 hover:text-ember-300"
               >
-                <Instagram className="h-4 w-4 text-ember-400" strokeWidth={2.5} />
+                <FaInstagram className="h-4 w-4 text-ember-400" />
                 @bbqbrasaburguer
               </a>
             </div>

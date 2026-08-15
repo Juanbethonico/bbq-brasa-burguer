@@ -1,11 +1,11 @@
-import { Flame, CalendarDays, Wallet } from "lucide-react";
+import { Flame, CalendarCheck, Wallet } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 import { useReveal } from "@/hooks/useReveal";
 import { highlights } from "@/data/menu";
 
 const iconMap: Record<string, LucideIcon> = {
   Flame,
-  CalendarDays,
+  CalendarCheck,
   Wallet,
 };
 

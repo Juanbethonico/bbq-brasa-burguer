@@ -20,8 +20,8 @@ export function About() {
             {/* image */}
             <div className="relative overflow-hidden rounded-3xl h-72 md:h-[24rem]">
               <img
-                src="https://images.pexels.com/photos/15898820/pexels-photo-15898820.jpeg?auto=compress&cs=tinysrgb&w=1000"
-                alt="Ambiente da hamburgueria BBQ Brasa"
+                src="/fachada.jpg"
+                alt="Fachada da hamburgueria BBQ Brasa em Sobradinho I"
                 loading="lazy"
                 className="h-full w-full object-cover transition-transform duration-[1.2s] hover:scale-105"
               />
