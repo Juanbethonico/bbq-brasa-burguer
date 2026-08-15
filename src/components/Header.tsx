@@ -54,7 +54,7 @@ export function Header() {
 
         {/* CTA */}
         <a
-          href="https://whatsmenu.com.br/bbqbrasaburguer?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnpE4NGKzuaI09WjXBK32aIt5IRseVcqABro5hCi08YkGmoeOv7QUDqgYYRlw_aem_fb2UvjFi2sBrEpxF5_5T8A&utm_id=97760_v0_s00_e0_tv3"
+          href="https://whatsmenu.com.br/bbqbrasaburguer?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAactHLQQE3ChoVhFG3vh1KhZ6hfHi3NzgjkpTdYHflzKmzq193z3-nDR5MVlnw_aem_qWrEQ5lv50pmspSYBOcfgQ&utm_id=97760_v0_s00_e0_tv3"
           target="_blank"
           rel="noreferrer"
           className="hidden md:inline-flex items-center gap-2 rounded-full bg-ember-500 px-5 py-2.5 text-[11px] font-black uppercase tracking-widest text-charcoal-950 transition-all hover:bg-ember-400 hover:ember-glow"
@@ -91,7 +91,7 @@ export function Header() {
             </a>
           ))}
           <a
-            href="https://wa.me/5561900000000"
+            href="https://whatsmenu.com.br/bbqbrasaburguer?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAactHLQQE3ChoVhFG3vh1KhZ6hfHi3NzgjkpTdYHflzKmzq193z3-nDR5MVlnw_aem_qWrEQ5lv50pmspSYBOcfgQ&utm_id=97760_v0_s00_e0_tv3"
             target="_blank"
             rel="noreferrer"
             className="mt-2 inline-flex items-center justify-center gap-2 rounded-xl bg-ember-500 px-4 py-3 text-sm font-black uppercase tracking-widest text-charcoal-950"

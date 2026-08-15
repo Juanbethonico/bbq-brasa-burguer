@@ -48,7 +48,7 @@ export function Footer() {
             </h4>
             <div className="mt-4 flex flex-col gap-3">
               <a
-                href="https://wa.me/5561900000000"
+                href="https://whatsmenu.com.br/bbqbrasaburguer?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAactHLQQE3ChoVhFG3vh1KhZ6hfHi3NzgjkpTdYHflzKmzq193z3-nDR5MVlnw_aem_qWrEQ5lv50pmspSYBOcfgQ&utm_id=97760_v0_s00_e0_tv3"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center gap-3 rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-sm font-bold text-white/80 transition-colors hover:border-ember-500/40 hover:text-ember-300"

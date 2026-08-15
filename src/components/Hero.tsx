@@ -40,7 +40,7 @@ export function Hero() {
 
           <div className="mt-8 flex flex-col gap-4 sm:flex-row sm:items-center animate-fade-up [animation-delay:220ms]">
             <a
-              href="https://wa.me/5561900000000"
+              href="https://whatsmenu.com.br/bbqbrasaburguer?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAactHLQQE3ChoVhFG3vh1KhZ6hfHi3NzgjkpTdYHflzKmzq193z3-nDR5MVlnw_aem_qWrEQ5lv50pmspSYBOcfgQ&utm_id=97760_v0_s00_e0_tv3"
               target="_blank"
               rel="noreferrer"
               className="group inline-flex items-center gap-3 rounded-full bg-ember-500 px-7 py-4 text-sm font-black uppercase tracking-wider text-charcoal-950 transition-all hover:bg-ember-400 hover:ember-glow-lg"
@@ -55,7 +55,9 @@ export function Hero() {
               />
             </a>
             <a
-              href="#cardapio"
+              href="https://whatsmenu.com.br/bbqbrasaburguer?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAactHLQQE3ChoVhFG3vh1KhZ6hfHi3NzgjkpTdYHflzKmzq193z3-nDR5MVlnw_aem_qWrEQ5lv50pmspSYBOcfgQ&utm_id=97760_v0_s00_e0_tv3"
+              target="_blank"
+              rel="noreferrer"
               className="inline-flex items-center gap-2 rounded-full border border-white/15 px-6 py-4 text-sm font-bold uppercase tracking-wider text-white/90 transition-colors hover:border-ember-500/50 hover:text-ember-300"
             >
               Ver cardápio
